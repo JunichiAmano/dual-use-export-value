@@ -1,0 +1,15 @@
+---
+title: "Versino 2015"
+author: "Juan Duarte"
+date: "2024-08-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(comtradr)
+library(dplyr)
+```
+
+## Introduction
+I aim to replicate Versino (2015) meassurement of Europes Dual Use Exported Value (DUEV).
